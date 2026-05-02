@@ -27,8 +27,6 @@
 **Google Colab:**  
 (https://colab.research.google.com/drive/14JlEJfaC20VVoOHYAsnZN1WtOFp-LPvE?usp=sharing)
 
-> Перед сдачей необходимо заменить ссылку выше на реальную публичную ссылку на ноутбук.
-
 ## Используемый датасет
 
 В работе используется датасет:
